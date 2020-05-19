@@ -7987,3 +7987,4 @@ ultrasurf
 ||cloudflare.com
 ||cnplus.xyz
 ||bit.ly
+||speedtest.ne
